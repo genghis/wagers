@@ -1,0 +1,3 @@
+slackclient
+boto3
+flask
